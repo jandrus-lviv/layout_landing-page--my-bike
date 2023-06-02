@@ -1,6 +1,6 @@
 - Project description:
   - This is MyBIKE landing, which is a result of accomplishing a task from Front End courses of Mate Academy.
-  - [ORIGIN REPOSITORY](https://github.com/jandrus-lviv/layout_landing-page)
+  - [ORIGIN REPOSITORY](https://github.com/jandrus-lviv/layout_landing-page/tree/develop)
 - Used technologies:
   - HTML
   - CSS
